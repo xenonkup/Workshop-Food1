@@ -101,7 +101,7 @@ body {
 .restaurant-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    gap: 20px;
     width: 100%;
     margin: 60px auto;;
     background-color: #333;
